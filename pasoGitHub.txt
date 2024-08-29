@@ -1,0 +1,6 @@
+git init
+git remote add origin "nombreRepositorio"
+git pull origin main
+git add "nombreDelArchivo"
+git commit -m "mensaje del commit"
+git push origin main
